@@ -1,0 +1,80 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Italianno', cursive;
+    font-size: 33px;
+}
+
+#nv{
+    padding: 0px 6px;
+}
+#logo{
+    padding: 0px;
+}
+#main{
+    padding: 0px;
+}
+#Ch1{
+    text-align: center;
+    padding: 50px;
+}
+#cBg{
+    padding: 0px;
+    margin: 0px;
+    background-image: url("contact.jpg");
+    height: 700px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+#subBtn{
+    background-color:#e08d94;
+    font-size: 29px;
+
+    /* border: 2px solid #ff47ad; */
+    /* outline: #ff47ad; */
+    
+}
+#subBtn:hover{
+    background-color: pink;
+    outline: none;
+    
+}
+#fm input{
+    border: 3px solid pink;
+    /* color: #e08d94; */
+    font-size: 25px;
+}
+#op{
+    border: 3px solid pink;
+    font-size: 25px;
+}
+#boxes{
+    margin: auto;
+    padding: 137px 10px;
+    justify-content: center;
+}
+#box1{
+    box-shadow: 8px 6px 15px black;
+}
+#box2{
+    box-shadow: 8px 6px 15px black;
+}
+#box3{
+    box-shadow: 8px 6px 15px black;
+}
+#box4{
+    box-shadow: 8px 6px 15px black;
+}
+#box5{
+    box-shadow: 8px 6px 15px black;
+}
+#hometext1 h2,p{
+    text-shadow: 2px 1px 2px white;
+}
+#hometext2 h2,p{
+    text-shadow: 2px 1px 2px white;
+}
+#hometext3 h2,p{
+    text-shadow: 2px 1px 2px white;
+}
